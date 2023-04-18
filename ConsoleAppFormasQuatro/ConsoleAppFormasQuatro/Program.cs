@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ConsoleAppFormasTres
+namespace ConsoleAppFormasQuatro
 {
     internal class Program
     {
@@ -30,7 +30,7 @@ namespace ConsoleAppFormasTres
                 sair = new Sair(forma);
                 sair.Desligar();
 
-                Console.WriteLine("Quantas repetições do formato deseja que seja apresentado? Digite um número inteiro, a partir de 1." +
+                Console.WriteLine("Quantas repetições do formato deseja que seja apresentado? Digite um número inteiro, a partir de 1. " +
                     "Se desejar sair do console e encerrar o programa, digite SAIR.");
                 Console.WriteLine();
 
@@ -42,7 +42,7 @@ namespace ConsoleAppFormasTres
 
                 int quantidade = int.Parse(quantidadeString);
 
-                var impressora = new Impressora();
+                var impressora = new Impressor();
 
                 var formato = new Formato(forma, quantidade);
 

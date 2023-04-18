@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppFormasQuatro.Impressora
 {
-    internal class Impressora
+    internal class Impressor
     {
         public void ImprimirFinal(Formato formato, IImpressao impressao)
         {

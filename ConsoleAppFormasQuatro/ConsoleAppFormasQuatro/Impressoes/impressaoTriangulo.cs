@@ -61,7 +61,7 @@ namespace ConsoleAppFormasQuatro.Impressoes
                             }
                         }
 
-                        if (m >= 5)
+                        if (m >= 5) // Impressão da linha inferior
                         {
                             int k = 1;
                             linhaInferior = "";
