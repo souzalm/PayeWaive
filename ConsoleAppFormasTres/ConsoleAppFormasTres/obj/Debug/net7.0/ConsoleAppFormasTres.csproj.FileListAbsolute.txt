@@ -1,0 +1,15 @@
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\bin\Debug\net7.0\ConsoleAppFormasTres.exe
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\bin\Debug\net7.0\ConsoleAppFormasTres.deps.json
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\bin\Debug\net7.0\ConsoleAppFormasTres.runtimeconfig.json
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\bin\Debug\net7.0\ConsoleAppFormasTres.dll
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\bin\Debug\net7.0\ConsoleAppFormasTres.pdb
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\obj\Debug\net7.0\ConsoleAppFormasTres.csproj.AssemblyReference.cache
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\obj\Debug\net7.0\ConsoleAppFormasTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\obj\Debug\net7.0\ConsoleAppFormasTres.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\obj\Debug\net7.0\ConsoleAppFormasTres.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\obj\Debug\net7.0\ConsoleAppFormasTres.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\obj\Debug\net7.0\ConsoleAppFormasTres.dll
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\obj\Debug\net7.0\refint\ConsoleAppFormasTres.dll
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\obj\Debug\net7.0\ConsoleAppFormasTres.pdb
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\obj\Debug\net7.0\ConsoleAppFormasTres.genruntimeconfig.cache
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasTres\ConsoleAppFormasTres\obj\Debug\net7.0\ref\ConsoleAppFormasTres.dll

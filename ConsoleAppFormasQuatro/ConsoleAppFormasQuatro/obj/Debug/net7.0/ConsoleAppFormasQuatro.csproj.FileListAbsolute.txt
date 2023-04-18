@@ -1,0 +1,15 @@
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\bin\Debug\net7.0\ConsoleAppFormasQuatro.exe
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\bin\Debug\net7.0\ConsoleAppFormasQuatro.deps.json
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\bin\Debug\net7.0\ConsoleAppFormasQuatro.runtimeconfig.json
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\bin\Debug\net7.0\ConsoleAppFormasQuatro.dll
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\bin\Debug\net7.0\ConsoleAppFormasQuatro.pdb
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\obj\Debug\net7.0\ConsoleAppFormasQuatro.csproj.AssemblyReference.cache
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\obj\Debug\net7.0\ConsoleAppFormasQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\obj\Debug\net7.0\ConsoleAppFormasQuatro.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\obj\Debug\net7.0\ConsoleAppFormasQuatro.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\obj\Debug\net7.0\ConsoleAppFormasQuatro.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\obj\Debug\net7.0\ConsoleAppFormasQuatro.dll
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\obj\Debug\net7.0\refint\ConsoleAppFormasQuatro.dll
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\obj\Debug\net7.0\ConsoleAppFormasQuatro.pdb
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\obj\Debug\net7.0\ConsoleAppFormasQuatro.genruntimeconfig.cache
+C:\Users\souza\OneDrive\Concursos e Empregos\Seleções de Emprego\PayeWaive\ConsoleAppFormasQuatro\ConsoleAppFormasQuatro\obj\Debug\net7.0\ref\ConsoleAppFormasQuatro.dll
